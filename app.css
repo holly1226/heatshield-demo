@@ -228,3 +228,7 @@ html[data-motion="reduced"] *,html[data-motion="reduced"] *:before,html[data-mot
 .risk3d-caption{font-size:9px;color:var(--sub);padding:0 18px 15px;line-height:1.8}.risk3d-empty{padding:40px 22px}
 @media(max-width:759px){.risk3d-stage{height:280px}.risk3d{border-radius:16px}.risk3d-camera button{width:42px}}
 @media(max-width:359px){.risk3d-heading{padding-left:14px;padding-right:14px}.risk3d-camera button{width:40px;padding:6px}.risk3d-tools{padding:0 8px}.risk3d-interact{font-size:9px;gap:3px}.risk3d-stage{height:240px}.risk3d-selection{padding:12px 14px}.risk3d-summary{gap:7px}.risk3d-score strong{font-size:25px}}
+
+/* Local Census roads remain visible when online street tiles are unavailable. */
+.local-road-label{font-size:9px;color:#797265;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:16px;text-shadow:0 1px 2px #fdfbf6,1px 0 2px #fdfbf6,-1px 0 2px #fdfbf6;pointer-events:none!important}
+.dark .local-road-label{color:#c2bcad;text-shadow:0 1px 2px #24231f,1px 0 2px #24231f,-1px 0 2px #24231f}
