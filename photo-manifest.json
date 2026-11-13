@@ -1,0 +1,249 @@
+{
+  "assets": {
+    "burton-barr-exterior": {
+      "src": "assets/photos/burton-barr-exterior.jpg",
+      "title": "Burton Barr Central Library-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Burton_Barr_Central_Library-2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Burton_Barr_Central_Library-2.jpg",
+      "author": "Visitor7",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-12-03 09:19:12",
+      "description": "The Burton Barr Central Library in Phoenix, Arizona",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Burton Barr Central Library · 入口",
+      "year": "2013",
+      "position": "50% 57%"
+    },
+    "burton-barr-reading": {
+      "src": "assets/photos/burton-barr-reading.jpg",
+      "title": "Burton Barr Central Library-6.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Burton_Barr_Central_Library-6.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Burton_Barr_Central_Library-6.jpg",
+      "author": "Visitor7",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-12-03 09:27:43",
+      "description": "The Burton Barr Central Library in Phoenix, Arizona",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Burton Barr Central Library · 建筑外观",
+      "year": "2013",
+      "position": "50% 50%"
+    },
+    "bronx-library": {
+      "src": "assets/photos/bronx-library.jpg",
+      "title": "Bronx Library Center.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronx_Library_Center.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bronx_Library_Center.jpg",
+      "author": "Julian A. Henderson",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-05-25",
+      "description": "View from Kingsbridge Road looking Northwest",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Bronx Library Center · 建筑外观",
+      "year": "2012",
+      "position": "50% 50%"
+    },
+    "bronx-interior": {
+      "src": "assets/photos/bronx-interior.jpg",
+      "title": "Bronx Library Center interior ceiling.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronx_Library_Center_interior_ceiling.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bronx_Library_Center_interior_ceiling.jpg",
+      "author": "Julian A. Henderson",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-05-25",
+      "description": "Fourth floor swooping ceiling view",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Bronx Library Center · 室内",
+      "year": "2012",
+      "position": "50% 50%"
+    },
+    "flushing-library": {
+      "src": "assets/photos/flushing-library.jpg",
+      "title": "Queens Library, Flushing, June 19, 2025.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Queens_Library,_Flushing,_June_19,_2025.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Queens_Library%2C_Flushing%2C_June_19%2C_2025.jpg",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "Taken on 19 June 2025, 11:15:41",
+      "description": "Queens Library, Flushing",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Flushing Library · 建筑外观",
+      "year": "2025",
+      "position": "50% 50%"
+    },
+    "houston-central": {
+      "src": "assets/photos/houston-central.jpg",
+      "title": "Jesse H. Jones Building, Houston Public Library.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jesse_H._Jones_Building,_Houston_Public_Library.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Jesse_H._Jones_Building%2C_Houston_Public_Library.jpg",
+      "author": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2024-02-08 18:16:56",
+      "description": "Jesse H. Jones Building, Houston Public Library",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Houston Central Library · Jesse H. Jones Building",
+      "year": "2024",
+      "position": "50% 50%"
+    },
+    "miami-main": {
+      "src": "assets/photos/miami-main.jpg",
+      "title": "Main Library (Miami, Florida).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_Library_(Miami,_Florida).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Main_Library_%28Miami%2C_Florida%29.jpg",
+      "author": "Tamanoeconomico",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-11-14 12:21:32",
+      "description": "The Main Library in Miami, Florida, is part of the Miami-Dade Public Library System.",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Miami-Dade Main Library · 建筑外观",
+      "year": "2018",
+      "position": "50% 50%"
+    },
+    "miami-interior": {
+      "src": "assets/photos/miami-interior.jpg",
+      "title": "Main Library Downtown Miami FL - interior, 31 Oct 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_Library_Downtown_Miami_FL_-_interior,_31_Oct_2022.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Main_Library_Downtown_Miami_FL_-_interior%2C_31_Oct_2022.jpg",
+      "author": "Phillip Pessar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2022-10-31 12:16:50",
+      "description": "Main Library Downtown Miami FL - interior, 31 Oct 2022",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Miami-Dade Main Library · 室内",
+      "year": "2022",
+      "position": "50% 50%"
+    },
+    "coral-gables-library": {
+      "src": "assets/photos/coral-gables-library.jpg",
+      "title": "Coral Gables Library.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Coral_Gables_Library.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Coral_Gables_Library.jpg",
+      "author": "AL826",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2014-11-30",
+      "description": "This is a personal photo of the Coral Gables branch library",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Coral Gables Library · 建筑外观",
+      "year": "2014",
+      "position": "50% 50%"
+    },
+    "reference-pool": {
+      "src": "assets/photos/reference-pool.jpg",
+      "title": "Astoria Pool jeh.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Astoria_Pool_jeh.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Astoria_Pool_jeh.jpg",
+      "author": "Jim.henderson",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2010-06",
+      "description": "Looking southeast at pool and playhouse on a partly sunny midday before opening day.",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Astoria Pool · 公共泳池实景参考",
+      "year": "2010",
+      "position": "50% 50%"
+    },
+    "reference-community": {
+      "src": "assets/photos/reference-community.jpg",
+      "title": "Erie Community Center Exterior 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Erie_Community_Center_Exterior_03.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Erie_Community_Center_Exterior_03.jpg",
+      "author": "Erie Bard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2019-10-05 14:34:42",
+      "description": "The South West corner of the Erie Community Center. Photo taken looking North East in Erie, Colorado.",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Erie Community Center · 社区中心实景参考",
+      "year": "2019",
+      "position": "50% 50%"
+    },
+    "reference-mall": {
+      "src": "assets/photos/reference-mall.jpg",
+      "title": "Shopping mall interior.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shopping_mall_interior.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Shopping_mall_interior.jpg",
+      "author": "Steven Damron from San Francisco",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2010-01-08 05:16",
+      "description": "shopping mall interior",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "商业空间室内实景参考",
+      "year": "2010",
+      "position": "50% 50%"
+    },
+    "mott-haven-library": {
+      "src": "assets/photos/mott-haven-library.jpg",
+      "title": "Mott Haven NYPL Alexander Av & 140 St jeh.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Mott_Haven_NYPL_Alexander_Av_%26_140_St_jeh.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mott_Haven_NYPL_Alexander_Av_%26_140_St_jeh.JPG",
+      "author": "Jim.henderson",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "Taken on 31 January 2016, 13:05:06",
+      "description": "Looking north across Alexander Avenue and 140th St, at Mott Haven Branch on a sunny midday",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "caption": "Mott Haven Library · 建筑外观",
+      "year": "2016",
+      "position": "50% 50%"
+    },
+    "las-vegas-library-archive": {
+      "src": "assets/photos/las-vegas-library-archive.jpg",
+      "title": "Lied discovery museum birthday party room 1.jpg",
+      "caption": "Las Vegas Library 与原 Lied Discovery Museum 共用建筑 · 历史外观",
+      "source": "https://commons.wikimedia.org/wiki/File:Lied_discovery_museum_birthday_party_room_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lied_discovery_museum_birthday_party_room_1.jpg",
+      "author": "time anchor",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-06-10 12:21:09",
+      "description": "Photo of a unique portion of the C.L.V. Main Public Library and Lied Discovery Museum located in Las Vegas, Nevada. Called the \"birthday party room\", it is rented out to patrons for special occasions.",
+      "position": "50% 50%",
+      "changes": "为适配屏幕缩小显示，卡片中按比例裁切；未更改照片内容。",
+      "year": "2011"
+    }
+  },
+  "matched": {
+    "phoenix|Burton Barr Central Library": [
+      "burton-barr-exterior",
+      "burton-barr-reading"
+    ],
+    "nyc|Bronx Library Center": [
+      "bronx-library",
+      "bronx-interior"
+    ],
+    "nyc|Mott Haven Library": [
+      "mott-haven-library"
+    ],
+    "nyc|Flushing Library": [
+      "flushing-library"
+    ],
+    "houston|Central Library": [
+      "houston-central"
+    ],
+    "miami|Miami Downtown Library": [
+      "miami-main",
+      "miami-interior"
+    ],
+    "miami|Coral Gables Library": [
+      "coral-gables-library"
+    ],
+    "las_vegas|Las Vegas Library": [
+      "las-vegas-library-archive"
+    ]
+  },
+  "references": {
+    "library": "bronx-interior",
+    "pool": "reference-pool",
+    "community_center": "reference-community",
+    "mall": "reference-mall"
+  }
+}

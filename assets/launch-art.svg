@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="320" viewBox="0 0 340 320" fill="none">
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#F7BC74" stop-opacity=".3"/><stop offset="1" stop-color="#F7BC74" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orb" cx=".28" cy=".18" r=".9"><stop stop-color="#FFF3C5"/><stop offset=".35" stop-color="#FFD078"/><stop offset=".72" stop-color="#F4A047"/><stop offset="1" stop-color="#D87138"/></radialGradient>
+    <linearGradient id="shield" x1="98" y1="114" x2="237" y2="258" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFEF9"/><stop offset=".5" stop-color="#F8F0E2"/><stop offset="1" stop-color="#E8D8C2"/></linearGradient>
+    <linearGradient id="edge" x1="110" y1="113" x2="241" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF6"/><stop offset=".56" stop-color="#E6D3B9"/><stop offset="1" stop-color="#C8AC8D"/></linearGradient>
+    <linearGradient id="cool" x1="135" y1="185" x2="210" y2="211" gradientUnits="userSpaceOnUse"><stop stop-color="#D88B64"/><stop offset="1" stop-color="#B86443"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="drop" x="-50%" y="-40%" width="200%" height="200%"><feDropShadow dx="3" dy="15" stdDeviation="13" flood-color="#9D6948" flood-opacity=".17"/></filter>
+    <clipPath id="orbClip"><circle cx="202" cy="101" r="53"/></clipPath>
+  </defs>
+  <ellipse class="art-glow" cx="175" cy="160" rx="156" ry="147" fill="url(#glow)"/>
+  <circle class="art-orbit" cx="170" cy="151" r="119" stroke="#DDBD94" stroke-opacity=".25" stroke-width=".7"/>
+  <path d="M62 211A123 123 0 0 1 128 37M232 45A124 124 0 0 1 285 194" stroke="#DDBD94" stroke-opacity=".5" stroke-width=".7"/>
+  <g class="art-sun">
+  <g stroke="#D99E62" stroke-width="2" stroke-linecap="round" opacity=".55"><path d="M202 24V15M259 45l7-7M278 100h11M148 46l-7-7"/></g>
+  <circle cx="202" cy="101" r="53" fill="url(#orb)"/>
+  <g clip-path="url(#orbClip)" stroke="#FFF6DA" stroke-opacity=".3" stroke-width=".7"><ellipse cx="185" cy="83" rx="64" ry="39" transform="rotate(-35 185 83)"/><ellipse cx="181" cy="78" rx="64" ry="34" transform="rotate(-35 181 78)"/><ellipse cx="177" cy="73" rx="64" ry="29" transform="rotate(-35 177 73)"/></g>
+  <path d="M167 73c9-13 21-19 35-19" stroke="#FFF9DE" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+  </g>
+  <ellipse class="art-shadow" cx="167" cy="270" rx="65" ry="8" fill="#AA7857" opacity=".13" filter="url(#blur)"/>
+  <g class="art-shield" filter="url(#drop)">
+    <path d="M108 113Q173 127 237 113v68c0 39-28 63-63 84-38-20-66-45-66-84Z" fill="#C8AD90"/>
+    <path d="M102 109Q167 123 232 109v68c0 39-28 63-65 84-37-21-65-45-65-84Z" fill="url(#shield)" stroke="url(#edge)" stroke-width="1.5"/>
+    <path d="M112 122q55 10 110 0v54c0 33-23 56-55 75-32-19-55-42-55-75Z" stroke="#D6B99B" stroke-opacity=".55" stroke-width=".7"/>
+    <path d="M138 168c10-5 49-5 59 0M135 185c15-5 50-5 65 0M144 202c11-4 35-4 46 0" stroke="url(#cool)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M122 132v37" stroke="#FFFDF5" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <g class="art-sparkles" fill="#E6BA88"><circle cx="65" cy="134" r="3"/><circle cx="272" cy="209" r="2"/><circle cx="96" cy="242" r="1.5"/></g>
+  <path d="M61 168v10m-5-5h10M263 150v8m-4-4h8" stroke="#C7A380" stroke-width="1" stroke-linecap="round"/>
+</svg>
