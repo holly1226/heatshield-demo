@@ -232,3 +232,12 @@ html[data-motion="reduced"] *,html[data-motion="reduced"] *:before,html[data-mot
 /* Local Census roads remain visible when online street tiles are unavailable. */
 .local-road-label{font-size:9px;color:#797265;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:16px;text-shadow:0 1px 2px #fdfbf6,1px 0 2px #fdfbf6,-1px 0 2px #fdfbf6;pointer-events:none!important}
 .dark .local-road-label{color:#c2bcad;text-shadow:0 1px 2px #24231f,1px 0 2px #24231f,-1px 0 2px #24231f}
+
+/* Both languages share the same layout and tokens. */
+.launch-options{display:flex;align-items:center;gap:10px}.language-shortcut{display:inline-flex;align-items:center;gap:5px;color:var(--sub);font:inherit;font-size:11px;min-height:36px;padding:5px 3px}.language-shortcut .lucide{width:14px;height:14px}
+.language-setting{cursor:default}.language-setting>span{min-width:0}.language-setting select{font:inherit;font-size:13px;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:8px;min-height:44px;max-width:135px;padding:8px 24px 8px 10px;flex-shrink:0}.language-setting select:focus-visible{outline:2px solid var(--brand);outline-offset:3px}
+html[lang="en"] .launch-intro h1{font-size:clamp(28px,7.4vw,34px);line-height:1.16;letter-spacing:-1.1px}html[lang="en"] .launch-intro p{font-size:13px;line-height:1.65}html[lang="en"] .launch-kicker{letter-spacing:.8px}
+html[lang="en"] .quick-action strong{font-size:13px;line-height:1.4}html[lang="en"] .quick-action small{line-height:1.4}html[lang="en"] .hero-footer{gap:8px;flex-wrap:wrap}html[lang="en"] .risk3d-camera{gap:3px}html[lang="en"] .risk3d-interact{font-size:11px;padding-inline:9px}html[lang="en"] .risk3d-summary button{font-size:10px;max-width:92px}html[lang="en"] .street-map-status{font-size:9px;max-width:calc(100% - 20px)}html[lang="en"] .street-map-help>span{max-width:64%}html[lang="en"] .map-tool{font-size:10px}html[lang="en"] .risk3d-heading{font-size:11px}html[lang="en"] .risk3d-tag{font-size:8px}
+@media(max-width:359px){.launch-options{gap:5px}.language-shortcut,.motion-toggle{font-size:10px}html[lang="en"] .launch-intro h1{font-size:28px}html[lang="en"] .launch-intro p{font-size:12px}.language-setting{flex-wrap:wrap}.language-setting>span{flex-basis:calc(100% - 40px)}.language-setting select{margin-left:32px;max-width:none;width:calc(100% - 32px)}html[lang="en"] .risk3d-tools{gap:5px}html[lang="en"] .risk3d-interact{padding-inline:6px;font-size:10px}}
+
+.setting>.switch{flex:0 0 38px}
